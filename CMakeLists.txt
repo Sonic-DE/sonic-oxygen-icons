@@ -1,10 +1,7 @@
 cmake_minimum_required(VERSION 3.16)
 
-set(KF_VERSION "6.28.0") # handled by release scripts
+set(KF_VERSION "6.30.0") # handled by release scripts
 project(oxygen-icons VERSION ${KF_VERSION})
-
-set(CMAKE_CXX_STANDARD_REQUIRED ON)
-set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 # ECM setup
 include(FeatureSummary)
@@ -36,8 +33,6 @@ install( FILES index.theme DESTINATION ${KDE_INSTALL_ICONDIR}/oxygen)
 include(ECMFeatureSummary)
 ecm_feature_summary(WHAT ALL INCLUDE_QUIET_PACKAGES FATAL_ON_MISSING_REQUIRED_PACKAGES)
 
-file(GLOB_RECURSE ALL_CLANG_FORMAT_SOURCE_FILES *.cpp *.h)
-list(FILTER ALL_CLANG_FORMAT_SOURCE_FILES EXCLUDE REGEX ".*\\.ccls-cache/.*")
 kde_configure_git_pre_commit_hook(CHECKS CLANG_FORMAT)
 
 install(FILES org.kde.oxygenicon.metainfo.xml DESTINATION ${KDE_INSTALL_METAINFODIR})
