@@ -1,0 +1,9 @@
+<svg width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }.symbolic-stroke { fill:none; paint-order:fill markers stroke; stroke-linecap:round; stroke-linejoin:round; }</style>
+ </defs>
+ <g transform="translate(1,1)">
+  <path class="ColorScheme-Text symbolic-stroke" d="m7 1.5h11a1.5 1.5 45 011.5 1.5v16a1.5 1.5 135 01-1.5 1.5h-10.754a1.8356 1.8356 22.435 01-1.295-.53469.66541.66541.12401 00-.93686-.002l-.025516.02518a1.7746 1.7746 157.69 01-1.2466.51151h-.25822a.98383.98383 45 01-.98383-.98383v-17.032a.98427.98427 135 01.98427-.98427h1.0314a.98427.98427 45 01.98427.98427v15.516" stroke="currentColor"/>
+  <path class="ColorScheme-Text symbolic-stroke" d="m8.9 5.5h6.2597a1.0353 1.0353 66.137 01.76604 1.7317l-6.8515 7.5367a1.0353 1.0353 66.137 00.76603 1.7317h6.3597" stroke="currentColor"/>
+ </g>
+</svg>
