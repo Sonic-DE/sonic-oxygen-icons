@@ -6,10 +6,10 @@
   <g class="ColorScheme-Text" transform="translate(-22.092 -1.5)" fill="currentColor">
     <path class="ColorScheme-Text" d="m29.82 4.5c-1.4128 0-2.5751 1.0733-2.7148 2.4492-.0093.091732-.01367.1851-.01367.2793v19.523c0 1.5071 1.2215 2.7285 2.7285 2.7285h11.268v-3.8008c0-1.1271.89941-1.9998 2-2.1074v-.57227c0-1.9221 1.5818-3.5039 3.5039-3.5039.52765 0 1.0298.11932 1.4805.33203l-.01563-5.7852v-6.8145c3e-6-1.5071-1.2215-2.7285-2.7285-2.7285z" style="opacity:.1"/>
   </g>
-  <path d="m26.5 18.123v-12.392c0-1.7897-1.4416-3.2305-3.2324-3.2305h-15.535c-1.7908 0-3.2324 1.4408-3.2324 3.2305v19.539c0 1.7897 1.4416 3.2305 3.2324 3.2305h11.156" style="fill:none;opacity:.6;paint-order:fill markers stroke;stroke-linecap:round;stroke-opacity:.70196;stroke:#000"/>
+  <path class="ColorScheme-Text" stroke="currentColor" d="m26.5 18.123v-12.392c0-1.7897-1.4416-3.2305-3.2324-3.2305h-15.535c-1.7908 0-3.2324 1.4408-3.2324 3.2305v19.539c0 1.7897 1.4416 3.2305 3.2324 3.2305h11.156" style="fill:none;opacity:.6;paint-order:fill markers stroke;stroke-linecap:round;stroke-opacity:.70196"/>
   <path class="ColorScheme-Text" d="m14.086 21.221a8.0648 8.0597 0 01-6.8629-7.2298 8.0648 8.0597 0 015.4139-8.3688 8.0648 8.0597 0 019.4139 3.2865 8.0648 8.0597 0 01-.97822 9.9174" fill="none" stroke="currentColor" stroke-linecap="round" style="paint-order:fill markers stroke"/>
-  <ellipse cx="10" cy="25" rx=".5" ry=".5" style="fill:none;opacity:.6;paint-order:fill markers stroke;stroke-linecap:round;stroke-opacity:.70196;stroke:#000"/>
-  <ellipse cx="15.253" cy="13.246" rx=".7542" ry=".75373" style="fill:none;opacity:.6;paint-order:fill markers stroke;stroke-linecap:round;stroke-opacity:.70196;stroke:#000"/>
+  <ellipse class="ColorScheme-Text" stroke="currentColor" cx="10" cy="25" rx=".5" ry=".5" style="fill:none;opacity:.6;paint-order:fill markers stroke;stroke-linecap:round;stroke-opacity:.70196"/>
+  <ellipse class="ColorScheme-Text" stroke="currentColor" cx="15.253" cy="13.246" rx=".7542" ry=".75373" style="fill:none;opacity:.6;paint-order:fill markers stroke;stroke-linecap:round;stroke-opacity:.70196"/>
   <path class="ColorScheme-Text" d="m19.116 22.699-5.2065-6.1524 7.059 5.0765" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke"/>
   <g transform="translate(1e-5,1)">
     <g class="ColorScheme-Text" fill="currentColor">
