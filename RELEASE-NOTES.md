@@ -2,6 +2,10 @@
 
 The classic Oxygen icon theme, available in SonicDE as an optional alternative look.
 
+## 6.31.0.1 (2026-11-10)
+
+- Recently added icons now follow your colour scheme.
+
 ## 6.31.0 (2026-10-20)
 
 - Behind the scenes: version number update.
