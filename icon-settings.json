@@ -91,7 +91,7 @@
           },
           {
             "when": {"control": "symbolicActions22", "equals": false},
-            "operation": {"type": "omitDirectories", "directories": ["simbolicActions/22x22/actions"]}
+            "operation": {"type": "omitDirectories", "directories": ["simbolicActions/22x22/actions", "simbolicActions/24x24/actions"]}
           },
           {
             "when": {"control": "symbolicActions22", "equals": true},
